@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @dishank2933,
-- 📫 How to reach me ...
-- Twitter: https://twitter.com/Dishank2933
-- Linkedin: http://linkedin.com/in/dishank2933
 
 
 <!---
