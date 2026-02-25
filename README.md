@@ -1,58 +1,67 @@
 <h1 align="center">Dishank Viradiya</h1>
 
 <p align="center">
-Backend Systems • Security Operations • Automation
+Backend Systems • Applied AI • Automation Engineering
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+and+Securing+Real+Systems;Automation+over+Repetition;Monitoring+over+Guessing;Learning+through+Breaking+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+Scalable+Backend+Systems;Automation+as+a+First+Principle;Building+AI-Powered+Workflows;Systems+Thinking+over+Hype" />
 </p>
 
 ---
 
 ## About
-I work on backend systems and application security with a focus on understanding real-world failures.  
-My projects involve authentication, access control, logging, and workflow automation — moving toward SOC and detection engineering roles.
+I build scalable backend systems and automation pipelines with a focus on real-world reliability.  
+My work combines API design, authentication, workflow automation, and AI-assisted data processing to solve practical business problems.
 
 ---
 
 ## Current Focus
-- Security monitoring and log analysis
-- Web application testing
-- Backend reliability and API behavior
-- TryHackMe labs → https://tryhackme.com/p/random007
+- Backend system design and API architecture  
+- PostgreSQL and scalable data modeling  
+- AI-assisted document and workflow automation  
+- LLM integration into backend services  
+- Improving DSA and system fundamentals  
 
 ---
 
 ## Tech Stack
 
-### Development
+### Backend & Development
 <p>
 <img src="https://skillicons.dev/icons?i=python,nodejs,react,mongodb,js,cpp,c,linux,git" />
 </p>
 
-### Security
+### Databases & Systems
 <p>
-<img src="https://img.shields.io/badge/Burp%20Suite-Testing-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploit-Framework-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-darkgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-Top%2010-black?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker" />
 </p>
 
-### Areas I Work In
-- Backend APIs and automation
-- Authentication and access control
-- Log monitoring and anomaly detection
-- Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS)
+### AI & Automation
+<p>
+<img src="https://img.shields.io/badge/LLM-Integration-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OCR-Document%20Processing-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Validation-Workflows-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Pipelines-purple?style=for-the-badge"/>
+</p>
+
+---
+
+## Areas I Work In
+- Backend APIs and multi-tenant architecture  
+- Authentication and role-based access control (RBAC)  
+- Financial data validation and workflow automation  
+- AI-assisted invoice parsing and structured data extraction  
+- Production-oriented system design and logging  
 
 ---
 
 ## Selected Work
-- Secured a multi-tenant ERP platform (access control fixes, rate limiting, monitoring)
-- Built automation tools used in daily accounting workflows
-- Created invoice parsing and processing systems
-- Developed backend integrations and data pipelines
+- Built a multi-tenant ERP and invoicing SaaS platform  
+- Designed secure authentication and access control systems  
+- Developed AI-assisted invoice parsing pipelines  
+- Automated GST reconciliation workflows reducing manual effort by ~60%  
+- Created backend integrations with compliance APIs  
 
 ---
 
@@ -70,7 +79,7 @@ dishank.amd@gmail.com
 ---
 
 <p align="center">
-Looking for SOC / Security Engineering Internship Opportunities
+Open to Backend / Software Engineering / AI Internship Opportunities
 </p>
 
 <p align="center">
