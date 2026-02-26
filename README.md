@@ -1,85 +1,63 @@
 <h1 align="center">Dishank Viradiya</h1>
 
 <p align="center">
-Backend Systems • Applied AI • Automation Engineering
+Backend Development • Automation • Systems Engineering
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+Scalable+Backend+Systems;Automation+as+a+First+Principle;Building+AI-Powered+Workflows;Systems+Thinking+over+Hype" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Designing+Clean+REST+APIs;Automating+Real-World+Workflows;Engineering+Reliable+Solutions" />
 </p>
 
 ---
 
-## About
-I build scalable backend systems and automation pipelines with a focus on real-world reliability.  
-My work combines API design, authentication, workflow automation, and AI-assisted data processing to solve practical business problems.
+## About Me
 
----
-
-## Current Focus
-- Backend system design and API architecture  
-- PostgreSQL and scalable data modeling  
-- AI-assisted document and workflow automation  
-- LLM integration into backend services  
-- Improving DSA and system fundamentals  
+Computer Science student focused on backend systems, API development, and workflow automation.  
+I enjoy building reliable, scalable systems and improving processes through clean engineering.
 
 ---
 
 ## Tech Stack
 
-### Backend & Development
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,nodejs,react,mongodb,js,cpp,c,linux,git" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
 </p>
 
-### Databases & Systems
+### Backend & Web
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,react" />
 </p>
 
-### AI & Automation
+REST APIs • Authentication • RBAC • Multi-tenant Architecture
+
+### Databases
 <p>
-<img src="https://img.shields.io/badge/LLM-Integration-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OCR-Document%20Processing-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Validation-Workflows-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-Pipelines-purple?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
----
+### Systems & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git" />
+</p>
 
-## Areas I Work In
-- Backend APIs and multi-tenant architecture  
-- Authentication and role-based access control (RBAC)  
-- Financial data validation and workflow automation  
-- AI-assisted invoice parsing and structured data extraction  
-- Production-oriented system design and logging  
-
----
-
-## Selected Work
-- Built a multi-tenant ERP and invoicing SaaS platform  
-- Designed secure authentication and access control systems  
-- Developed AI-assisted invoice parsing pipelines  
-- Automated GST reconciliation workflows reducing manual effort by ~60%  
-- Created backend integrations with compliance APIs  
+Networking Fundamentals • API Integration • Data Processing • Workflow Automation
 
 ---
 
 ## Profiles
-GitHub: https://github.com/dishank2933  
-LinkedIn: https://linkedin.com/in/dishank2933  
-Portfolio: https://dishank2933.github.io  
-LeetCode: https://leetcode.com/u/dlviradiya/
 
----
-
-## Contact
-dishank.amd@gmail.com
+<p align="center">
+<a href="https://github.com/dishank2933">GitHub</a> • 
+<a href="https://linkedin.com/in/dishank2933">LinkedIn</a> • 
+<a href="https://leetcode.com/u/dlviradiya/">LeetCode</a> • 
+<a href="https://dishank2933.github.io">Portfolio</a>
+</p>
 
 ---
 
 <p align="center">
-Open to Backend / Software Engineering / AI Internship Opportunities
+Open to Backend / Software Engineering Internship Opportunities
 </p>
 
 <p align="center">
