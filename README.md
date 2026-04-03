@@ -1,19 +1,11 @@
 <h1 align="center">Dishank Viradiya</h1>
 
-<p align="center">
-Backend Development • Automation • Systems Engineering
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Designing+Clean+REST+APIs;Automating+Real-World+Workflows;Engineering+Reliable+Solutions" />
-</p>
 
 ---
 
 ## About Me
 
-Computer Science student focused on backend systems, API development, and workflow automation.  
-I enjoy building reliable, scalable systems and improving processes through clean engineering.
+Computer Science student focused on backend development, DSA and Competitive Programming
 
 ---
 
@@ -33,12 +25,12 @@ REST APIs • Authentication • RBAC • Multi-tenant Architecture
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
 ### Systems & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git" />
+<img src="https://skillicons.dev/icons?i=linux,git" />
 </p>
 
 Networking Fundamentals • API Integration • Data Processing • Workflow Automation
@@ -57,7 +49,7 @@ Networking Fundamentals • API Integration • Data Processing • Workflow Aut
 ---
 
 <p align="center">
-Open to Backend / Software Engineering Internship Opportunities
+Open to Software Engineering Internship Opportunities
 </p>
 
 <p align="center">
