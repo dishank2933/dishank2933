@@ -28,12 +28,10 @@ REST APIs • Authentication • RBAC • Multi-tenant Architecture
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
-### Systems & Tools
+### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git" />
+<img src="https://skillicons.dev/icons?i=linux,git,docker" />
 </p>
-
-Networking Fundamentals • API Integration • Data Processing • Workflow Automation
 
 ---
 
@@ -43,13 +41,13 @@ Networking Fundamentals • API Integration • Data Processing • Workflow Aut
 <a href="https://github.com/dishank2933">GitHub</a> • 
 <a href="https://linkedin.com/in/dishank2933">LinkedIn</a> • 
 <a href="https://leetcode.com/u/dlviradiya/">LeetCode</a> • 
-<a href="https://dishank2933.github.io">Portfolio</a>
+<a href="https://codeforces.com/profile/dlviradiya">CodeForces</a> • 
 </p>
 
 ---
 
 <p align="center">
-Open to Software Engineering Internship Opportunities
+Open to Work
 </p>
 
 <p align="center">
