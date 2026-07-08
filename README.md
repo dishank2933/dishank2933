@@ -21,8 +21,6 @@ Computer Science student focused on backend development, DSA and Competitive Pro
 <img src="https://skillicons.dev/icons?i=nodejs,express,react" />
 </p>
 
-REST APIs • Authentication • RBAC • Multi-tenant Architecture
-
 ### Databases
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
