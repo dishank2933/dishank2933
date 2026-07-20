@@ -38,7 +38,7 @@ Computer Science student focused on backend development, DSA and Competitive Pro
 <p align="center">
 <a href="https://github.com/dishank2933">GitHub</a> • 
 <a href="https://linkedin.com/in/dishank2933">LinkedIn</a> • 
-<a href="https://leetcode.com/u/dlviradiya/">LeetCode</a> • 
+<a href="https://leetcode.com/u/dishank2933/">LeetCode</a> • 
 <a href="https://codeforces.com/profile/dlviradiya">CodeForces</a> • 
 </p>
 
